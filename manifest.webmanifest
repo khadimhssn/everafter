@@ -1,0 +1,29 @@
+{
+ "name": "Ever After \u00b7 Wedding Planner",
+ "short_name": "Ever After",
+ "description": "Offline wedding planner: budget, guest list, RSVPs, seating chart, vendors, checklist and day timeline.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#FBF7F5",
+ "theme_color": "#C48A9A",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
